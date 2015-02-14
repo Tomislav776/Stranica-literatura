@@ -1,0 +1,13 @@
+[Sat Feb 14 16:54:33.327793 2015] [mpm_winnt:notice] [pid 6064:tid 408] AH00455: Apache/2.4.9 (Win32) PHP/5.5.12 configured -- resuming normal operations
+[Sat Feb 14 16:54:33.327793 2015] [mpm_winnt:notice] [pid 6064:tid 408] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:13:13
+[Sat Feb 14 16:54:33.327793 2015] [core:notice] [pid 6064:tid 408] AH00094: Command line: 'D:\\web izrada\\Stranica-literatura\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d D:/web izrada/Stranica-literatura/wamp/bin/apache/apache2.4.9'
+[Sat Feb 14 16:54:33.329793 2015] [mpm_winnt:notice] [pid 6064:tid 408] AH00418: Parent: Created child process 4248
+[Sat Feb 14 16:54:33.652812 2015] [mpm_winnt:notice] [pid 4248:tid 332] AH00354: Child: Starting 64 worker threads.
+[Sat Feb 14 17:00:41.889874 2015] [mpm_winnt:notice] [pid 6064:tid 408] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Feb 14 17:00:43.889988 2015] [mpm_winnt:notice] [pid 4248:tid 332] AH00364: Child: All worker threads have exited.
+[Sat Feb 14 17:00:43.977993 2015] [mpm_winnt:notice] [pid 6064:tid 408] AH00430: Parent: Child process 4248 exited successfully.
+[Sat Feb 14 17:00:44.491023 2015] [mpm_winnt:notice] [pid 4732:tid 412] AH00455: Apache/2.4.9 (Win32) PHP/5.5.12 configured -- resuming normal operations
+[Sat Feb 14 17:00:44.492023 2015] [mpm_winnt:notice] [pid 4732:tid 412] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:13:13
+[Sat Feb 14 17:00:44.492023 2015] [core:notice] [pid 4732:tid 412] AH00094: Command line: 'D:\\web izrada\\Stranica-literatura\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d D:/web izrada/Stranica-literatura/wamp/bin/apache/apache2.4.9'
+[Sat Feb 14 17:00:44.493023 2015] [mpm_winnt:notice] [pid 4732:tid 412] AH00418: Parent: Created child process 4492
+[Sat Feb 14 17:00:44.818041 2015] [mpm_winnt:notice] [pid 4492:tid 336] AH00354: Child: Starting 64 worker threads.

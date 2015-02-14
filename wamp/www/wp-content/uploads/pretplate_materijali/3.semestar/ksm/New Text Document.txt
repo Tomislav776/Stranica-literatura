@@ -1,0 +1,10 @@
+Treæi kolokvij iz predmeta Komunikacijski sustavi i mreže bit æe 26.01.2015. u terimnu nastave po grupama kao i za prethodne kolokvije.
+
+Dijelovi gradiva koje obzhvaæa ovaj kolokvij su:
+
+ZADACI:
+
+    kodiranje i Hmmingovim kodom i dekodiranje s ispravljanjem grešaka na prijemu i
+    izraèun prometa (vjerojatnosti pojavljivanja kijenata u zadanom vremenu i vjerojatnost formiranja reda èekanja na opsluživanje).
+
+TEORIJA (esejski odgovori) - primjeri pitanja dani su u  prilogu.
